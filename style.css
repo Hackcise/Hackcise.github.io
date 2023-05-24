@@ -105,4 +105,11 @@ body, ul {
     object-fit: cover;
     margin-bottom: 20px;
   }
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
   
