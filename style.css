@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  background-color: black;
+}
+
+body {
+  color: black;
+}
+
+i {
+  color: rgb(0, 0, 0)
+}
+
+i {
+  background-color: rgb(255, 0, 0);
+}
+
+img {
+  border: 5px solid rgb(255, 0, 0);
+}
