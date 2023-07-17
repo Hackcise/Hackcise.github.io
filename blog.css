@@ -1,0 +1,20 @@
+body{
+    background-image: url(bg.png);
+    background-size: cover;
+    backface-visibility: hidden;
+}
+
+h1{
+    text-align: center;
+    background-color: #f5f100;
+    border: 5px dashed #eb0af7;
+    text-shadow:#4fc718;
+    text-transform: uppercase;
+    text-justify: distribute;
+    cursor: wait;
+}
+
+p{
+    background-color: #4fc718;
+    border: 3px dashed #f5f100;
+}
